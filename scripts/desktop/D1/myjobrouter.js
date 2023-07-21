@@ -1,5 +1,6 @@
-function onload() {
+function onload() 
+{
 var a = 'Test Var';
 alert(a);
-//alert('Henry');
+//alert('Henry') 09:14;
 }
